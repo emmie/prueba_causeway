@@ -5,7 +5,6 @@
 image:https://github.com/apache/causeway-app-helloworld/workflows/Build%20w/%20Maven%20+%20Jdk%208/badge.svg[]
 image:https://github.com/apache/causeway-app-helloworld/workflows/Build%20w/%20Maven%20+%20Jdk%2015/badge.svg[]
 
-This is a minimal link:https://causeway.apache.org[Apache Causeway] application, intended as a starting point to learn what the framework is all about.
 
 [TIP]
 ====
