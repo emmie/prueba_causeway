@@ -1,4 +1,4 @@
-= HelloWorld
+= HelloWorld AKA Hola Mundo
 :toc:
 :toc-placement!:
 
@@ -6,12 +6,6 @@ image:https://github.com/apache/causeway-app-helloworld/workflows/Build%20w/%20M
 image:https://github.com/apache/causeway-app-helloworld/workflows/Build%20w/%20Maven%20+%20Jdk%2015/badge.svg[]
 
 
-[TIP]
-====
-For real-world development, we recommend you instead start with the link:https://github.com/apache/causeway-app-simpleapp[SimpleApp] starter app.
-
-It provides more structure and includes examples of fixtures, unit tests, integration tests, and BDD (Cucumber) specs.
-====
 
 toc::[]
 
